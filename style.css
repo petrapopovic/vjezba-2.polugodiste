@@ -3,14 +3,10 @@
     font-size: x-large;
     background-color: lightgreen;
 }
-}
-h1{
-    color: blue;
-    background-color: lightblue;
-    font-size: x-large;
-}
+
 img{
     border-radius: 20%;
+    
 }
 .p1{
 color: blue;
@@ -24,11 +20,20 @@ font-size: medium;
 }
 .g1{
     color:blue ;
-    background-color: rgb rgb(152, 228, 152) ;
+    font-style: italic;
     font-size: medium;
 }
 .p3{
     color: blue;
     background-color: lightblue;
     font-size: medium;
+}
+.nato{
+    font-style: italic;
+    font-size: x-large;
+}
+
+.naslov{
+    color: crimson;
+    font-size: x-large;
 }
